@@ -53,7 +53,6 @@ public class AtendimentoMensagem {
                     System.out.println("Opção inválida.");
             }
         }
-
         sc.close();
     }
 
